@@ -1,1 +1,2 @@
 Este es mi primer programa para probar git
+Ahora he hecho cambios en mi rama alter1
